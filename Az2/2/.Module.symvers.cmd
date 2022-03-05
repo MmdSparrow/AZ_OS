@@ -1,0 +1,1 @@
+cmd_/home/esmirk/Desktop/Az2/2/Module.symvers := sed 's/\.ko$$/\.o/' /home/esmirk/Desktop/Az2/2/modules.order | scripts/mod/modpost -m -a  -o /home/esmirk/Desktop/Az2/2/Module.symvers -e -i Module.symvers   -T -

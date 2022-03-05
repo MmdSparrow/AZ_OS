@@ -1,0 +1,1 @@
+cmd_/home/esmirk/Desktop/Az2/2/linkedList.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/esmirk/Desktop/Az2/2/linkedList.ko /home/esmirk/Desktop/Az2/2/linkedList.o /home/esmirk/Desktop/Az2/2/linkedList.mod.o;  true

@@ -10,8 +10,8 @@ else
 	echo "sum=$sum"
 
 	if [ $1 -gt $2 ]; then
-		echo "first number is grater thatn another one."
+		echo "first number is grater thatn another one. $1"
 	else
-		echo "second number is greater than another one."
+		echo "second number is greater than another one. $2"
 	fi
 fi
